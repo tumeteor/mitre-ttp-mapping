@@ -31,7 +31,7 @@ If you use the datasets in your research or want to refer to our work, please ci
 ```
 @inproceedings{nguyen-srndic-neth-ttpm,
     title = "Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition",
-    author = "Nguyen, Tu and Srndic, Nedim and Neth, Alexander",
+    author = "Nguyen, Tu and Šrndić, Nedim and Neth, Alexander",
     booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics",
     month = mar,
     year = "2024",
